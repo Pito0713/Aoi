@@ -1,0 +1,15 @@
+{
+  "Account is required": "帐号为必填",
+  "Password is required": "密码为必填",
+  "Log in": "登入",
+  "account": "帐号",
+  "please enter account": "请输入帐号",
+  "password": "密码",
+  "please enter password": "请输入密码",
+  "language":"语言",
+  "Traditional Chinese": "繁体",
+  "Simplified": "简体",
+  "English": "英文",
+  "remember account": "记住帐号",
+  "member": "会员"
+}
